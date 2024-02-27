@@ -1,0 +1,24 @@
+[
+  {
+    "UserId": 1,
+    "NickName": "Javohir26",
+    "Bio": "dbhfd",
+    "Privacy": 1,
+    "Id": 1,
+    "CreatedAt": "2024-02-12T14:59:28.9959482Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "UserId": 2,
+    "NickName": "Rakhmatov",
+    "Bio": "hdfbcd",
+    "Privacy": 1,
+    "Id": 2,
+    "CreatedAt": "2024-02-12T15:06:06.9933282Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "PostId": 1,
+    "BeholderId": 1,
+    "CommentContent": "xbfhd ",
+    "Time": "2024-02-12T15:02:19.9922636Z",
+    "Id": 1,
+    "CreatedAt": "2024-02-12T15:02:19.9920499Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "PostId": 1,
+    "BeholderId": 1,
+    "CommentContent": "dhdbh dhd",
+    "Time": "2024-02-12T15:02:46.4259532Z",
+    "Id": 2,
+    "CreatedAt": "2024-02-12T15:02:46.425742Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "PostId": 1,
+    "BeholderId": 1,
+    "CommentContent": "xdnsb dhsn dhdsn",
+    "Time": "2024-02-12T15:07:42.6151143Z",
+    "Id": 3,
+    "CreatedAt": "2024-02-12T15:07:42.6151108Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "PostId": 1,
+    "BeholderId": 1,
+    "Time": "0001-01-01T00:00:00",
+    "Id": 1,
+    "CreatedAt": "2024-02-12T15:03:19.8165919Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "PostId": 1,
+    "BeholderId": 2,
+    "Time": "0001-01-01T00:00:00",
+    "Id": 2,
+    "CreatedAt": "2024-02-12T15:07:56.8757565Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

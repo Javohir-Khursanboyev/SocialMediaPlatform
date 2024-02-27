@@ -1,0 +1,26 @@
+[
+  {
+    "SenderAccountId": 1,
+    "InterlocutorId": 1,
+    "MessageContent": "ghdxn dhdd",
+    "Time": "2024-02-12T15:06:19.3166648Z",
+    "IsRead": false,
+    "Id": 1,
+    "CreatedAt": "2024-02-12T15:06:19.3162416Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "SenderAccountId": 1,
+    "InterlocutorId": 2,
+    "MessageContent": "hgdsb chdd",
+    "Time": "2024-02-12T15:06:41.2613201Z",
+    "IsRead": false,
+    "Id": 2,
+    "CreatedAt": "2024-02-12T15:06:41.2611997Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]
