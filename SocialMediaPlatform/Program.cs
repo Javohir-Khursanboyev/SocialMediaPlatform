@@ -18,7 +18,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create a Reservation object with sample data
         Reservation reservation = new Reservation
         {
             CustomerId = 123,
